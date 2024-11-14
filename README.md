@@ -25,7 +25,7 @@ Primero, necesitas clonar el repositorio:
 
 ```bash
 git clone https://github.com/TainaSuarez/TrabalhoFinal-Sistemas
-cd TrabalhoFinal-Sistemas
+cd TrabalhoFinal-Sistemas/Proyecto
  ```
 
 ## Luego, instala las dependencias:
